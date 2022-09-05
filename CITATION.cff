@@ -2,11 +2,11 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Morphing_DataAugmentation
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
+message: "If you use this software, please cite it as below."
 authors:
-  - given-names: Alessio Cocco
+  - family-names: Cocco
+    given-names: Alessio
     email: ale11022000@gmail.com
+title: "Morphing_DataAugmentation"
+type: software
+version: 1.0
